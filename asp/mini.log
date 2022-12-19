@@ -1,0 +1,4 @@
+Trace line 2: navn = 'Dag'
+Trace line 3: call function print with parameters ['hei', 'Dag']
+Trace line 3: None
+Trace line 4: h = {'g' : 5, 'h' : 7, 'j' : 9}

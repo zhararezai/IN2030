@@ -1,0 +1,93 @@
+<program>
+   1: # Denne listen inneholder et komma for mye.
+   2: # (Slikt er lov i Python, men ikke i Asp.)
+   3: 
+   4: a = [ 4, 3, 0, 0, ]
+  <Stmt>
+    <Small Statement List>
+      <Small Statement>
+        <Assignment>
+          <Name>
+          </Name>
+          <Expr>
+            <And Test>
+              <Not Test>
+                <Comparison>
+                  <Term>
+                    <Factor>
+                      <Primary>
+                        <Atom>
+                          <listDisplay>
+                            <Expr>
+                              <And Test>
+                                <Not Test>
+                                  <Comparison>
+                                    <Term>
+                                      <Factor>
+                                        <Primary>
+                                          <Atom>
+                                            <Integer Literal>
+                                            </Integer Literal>
+                                          </Atom>
+                                        </Primary>
+                                      </Factor>
+                                    </Term>
+                                  </Comparison>
+                                </Not Test>
+                              </And Test>
+                            </Expr>
+                            <Expr>
+                              <And Test>
+                                <Not Test>
+                                  <Comparison>
+                                    <Term>
+                                      <Factor>
+                                        <Primary>
+                                          <Atom>
+                                            <Integer Literal>
+                                            </Integer Literal>
+                                          </Atom>
+                                        </Primary>
+                                      </Factor>
+                                    </Term>
+                                  </Comparison>
+                                </Not Test>
+                              </And Test>
+                            </Expr>
+                            <Expr>
+                              <And Test>
+                                <Not Test>
+                                  <Comparison>
+                                    <Term>
+                                      <Factor>
+                                        <Primary>
+                                          <Atom>
+                                            <Integer Literal>
+                                            </Integer Literal>
+                                          </Atom>
+                                        </Primary>
+                                      </Factor>
+                                    </Term>
+                                  </Comparison>
+                                </Not Test>
+                              </And Test>
+                            </Expr>
+                            <Expr>
+                              <And Test>
+                                <Not Test>
+                                  <Comparison>
+                                    <Term>
+                                      <Factor>
+                                        <Primary>
+                                          <Atom>
+                                            <Integer Literal>
+                                            </Integer Literal>
+                                          </Atom>
+                                        </Primary>
+                                      </Factor>
+                                    </Term>
+                                  </Comparison>
+                                </Not Test>
+                              </And Test>
+                            </Expr>
+Asp parser error on line 4: Expected an an expressin atom after comma in list, but found ]!
